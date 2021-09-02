@@ -28,6 +28,7 @@ html body {
   
   a:hover {
     color: black;
+    text-decoration: underline;
   }
   
   .navbar-right {
